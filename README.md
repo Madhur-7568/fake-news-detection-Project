@@ -73,3 +73,29 @@ TF-IDF Vectorization
 Machine Learning Model
       ↓
 Prediction
+
+---
+
+## 📊 Model Performance
+
+The final SVM model achieved excellent performance on the test dataset.
+
+| Metric | Score |
+|---|---:|
+| Accuracy | **99.90%** |
+| Precision | **99.81%** |
+| Recall | **100.00%** |
+| F1 Score | **99.91%** |
+
+### 🔄 Cross-Validation
+
+- Mean CV Accuracy: **99.29%**
+- Standard Deviation: **0.00099**
+
+### 🧩 Confusion Matrix
+
+```text
+[[3574    8]
+ [   0 4239]]
+
+ 

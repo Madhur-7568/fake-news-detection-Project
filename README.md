@@ -1,4 +1,9 @@
 # 📰 Fake News Detection using NLP
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
+
 🚀 **[Live Demo](https://madhur-fake-news-detector-project.streamlit.app/)**
 
 A Machine Learning project that classifies news articles as **Fake** or **Real** using Natural Language Processing (NLP), TF-IDF Vectorization, and Support Vector Machine (SVM).
